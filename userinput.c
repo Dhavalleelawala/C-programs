@@ -131,7 +131,7 @@ void main()
         H();
         break;
     default:
-    printf("\t\t Worning")
+    printf("\t\t Worning");
     printf("please enter your name first character in uppercase...");
         break;
     }
